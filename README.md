@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hasnobrains
+- 👋 Hi, I’m Ilya
 - 👀 I’m interested in C++, Python
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning currently I'm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
