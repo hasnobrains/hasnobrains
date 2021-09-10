@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilya
-- 👀 I’m interested in C++, Python
+- 👀 I’m interested in C++, Python, Kotlin
 - 🌱 I’m currently learning machine learning currently I'm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
